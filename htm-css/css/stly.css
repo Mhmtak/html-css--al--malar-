@@ -1,0 +1,65 @@
+/* p{
+
+    background-color: aqua;
+}
+./*second{
+    border: 6px solid ;
+    color: brown;
+    padding: 10px;
+    margin: 15px;
+}*/
+/* #third{
+    background-color: red;
+}
+ div {
+     border: 1px solid black; 
+    padding: 40px;
+    margin: 50px;
+  }  */ 
+  .color-stlyle{
+    background-color: rgb(255,0,0);
+  }
+.color-style2{
+    background-color:rgba(90, 93, 119, 0.26);
+}
+
+
+
+#one{
+    border: 2px dotted;
+}
+#two{
+    border: 2px dashed;
+}
+#three{
+    border: 2px double;
+}
+#four{
+    border: 2px groove;
+}
+#five{
+    border: 2px ridge;
+}
+#six{
+    border: 6px inset;
+}
+#seven{
+    border: 2px outset;
+}
+
+#seven{
+    border: 2px outset;
+}
+
+#eight{
+    border: 2px none;
+}
+#nine{
+    border-style: solid dotted inset;
+}
+
+
+
+
+
+
