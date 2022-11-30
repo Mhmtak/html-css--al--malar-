@@ -1,0 +1,62 @@
+/* body{
+    background-color: aqua;
+
+} */
+/* 
+body{
+    background-image: url(../img/1_org_zoom.webp);
+}
+p{
+    background-color: rgb(124, 13, 228);
+    background-image: url(../img/61in-KmrAOL._AC_SX569_.jpg);
+    background-repeat: no-repeat;
+    background-size: 28%;
+}
+a{
+    background-color: brown;
+    
+} 
+div p{
+    background-color: rgb(196, 238, 11);
+    width: 123px; height: 123px;
+    border: 6px solid;
+    float: right;
+}
+img{
+    border: 3px solid; */
+    /* body{
+        background-image: url(../img/614NyZV09vL._AC_SX569_.jpg);
+        background-size: 30px;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+
+
+
+
+    }
+
+ */
+ body{
+    background: rgb(97, 10, 100) url(../img/1_org_zoom.webp) no-repeat right top ;
+    
+    
+
+
+ }
+ p{
+    border-style: solid;
+    color: aqua;
+    border-color: black;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
